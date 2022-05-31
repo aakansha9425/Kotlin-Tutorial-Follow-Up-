@@ -1,0 +1,7 @@
+Kotlin is statically typed language
+It is JVM laanguage (it needs jvm to execute its bytecode)
+supports to avoid NullPointerException
+supports immutability
+object oriented language
+no more boilerplated
+2017 -> google adopted kotlin as a official language
